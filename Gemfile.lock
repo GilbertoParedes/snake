@@ -1,12 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    irb (1.0.0)
+    minitest (5.11.3)
     ruby2d (0.9.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  irb
+  minitest (~> 5)
   ruby2d (~> 0.9.1)
 
 BUNDLED WITH
